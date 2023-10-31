@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-image-url.png" alt="Project Name" width="600">
-</p>
-
 <h1 align="center">Chatbot with Weather Function</h1>
 <p align="center">
   <i>A Flask-based application integrating OpenAI's GPT-3 for chat and a Weather API for weather information.</i>
